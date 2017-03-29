@@ -14,7 +14,12 @@ public class Hello {
 		System.out.println("this is added at gdys0033 ");
 
 		System.out.println("some one may have changed forked and this is added at the upstream teda ");
+
 		System.out.println("after 1st merge changes at gdys ");
+		
+		System.out.println("some changes in teda2 ");
+		
+		System.out.println("after 2nd merge changes at gdys ");
 
 	}
 
