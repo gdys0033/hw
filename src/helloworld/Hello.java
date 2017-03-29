@@ -21,6 +21,8 @@ public class Hello {
 		
 		System.out.println("after 2nd merge changes at gdys ");
 
+		System.out.println("some changes in teda3 ");
+
 	}
 
 }
